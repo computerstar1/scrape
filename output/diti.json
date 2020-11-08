@@ -7,10 +7,10 @@
     }
   },
   "cinema": {
-    "name": "Kino Ebensee",
-    "address": " Schulgasse 6, 4802 Ebensee",
-    "website": "https://www.kino-ebensee.at/",
-    "phone": "0043 6133 6308"
+    "name": "Kino Freistadt",
+    "address": " Salzgasse 254240 Freistadt",
+    "website": "https://www.kino-freistadt.at/",
+    "phone": "+43 7942 777 11"
   },
   "showtimes": [
     {
