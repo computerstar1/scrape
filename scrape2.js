@@ -9,5 +9,8 @@ requestMaker.get('https://old.reddit.com/top/', context, (err, res) => {
   if (err) {
     console.error(`Oh noo, sth. wen't wrong: ${err}`)
   }
-  console.log('Happy', res.status, '🙂') ///why I don't see here a request log as you say on 'tutorials'??
+
+  console.log('Happy', res.status, '🙂') 
+})
+///why I don't see here a request log as you say on 'tutorials'??
   // those are not tutorials, but those are tests 
