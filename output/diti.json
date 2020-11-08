@@ -1,0 +1,87 @@
+{
+  "crawler": {
+    "id": "diti",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kino Ebensee",
+    "address": " Schulgasse 6, 4802 Ebensee",
+    "website": "https://www.kino-ebensee.at/",
+    "phone": "0043 6133 6308"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Mein Liebhaber, der Esel & Ich",
+      "start_at": "2020-11-03T11:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Drachenreiter",
+      "start_at": "2020-11-03T11:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Es ist zu deinem Besten",
+      "start_at": "2020-11-03T11:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Yakari – Der Kinofilm",
+      "start_at": "2020-11-03T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Drachenreiter",
+      "start_at": "2020-11-03T14:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jim Knopf und die Wilde 13",
+      "start_at": "2020-11-03T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Der geheime Garten",
+      "start_at": "2020-11-03T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Drachenreiter",
+      "start_at": "2020-11-03T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Salzburg im Kino: La Traviata (2005)",
+      "start_at": "2020-11-03T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "I am Greta",
+      "start_at": "2020-11-03T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Austria 2 Australia",
+      "start_at": "2020-11-03T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Eine Frau mit berauschenden Talenten",
+      "start_at": "2020-11-03T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Es ist zu deinem Besten",
+      "start_at": "2020-11-03T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mein Liebhaber, der Esel & Ich",
+      "start_at": "2020-11-03T20:15:00",
+      "is_3d": false
+    }
+  ]
+}

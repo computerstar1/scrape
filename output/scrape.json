@@ -1,0 +1,16 @@
+{
+  "crawler": {
+    "id": "scrape",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kino Ebensee",
+    "address": " Schulgasse 6, 4802 Ebensee",
+    "website": "https://www.kino-ebensee.at/",
+    "phone": "0043 6133 6308"
+  },
+  "showtimes": []
+}

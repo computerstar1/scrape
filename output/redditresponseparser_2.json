@@ -1,0 +1,16 @@
+{
+  "crawler": {
+    "id": "redditresponseparser",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "id": "2",
+    "name": "Kino Lenzburg - Löwen",
+    "address": "Leuengasse 14, 5600 Lenzburg",
+    "showtimesSelector": "loewen"
+  },
+  "showtimes": []
+}
